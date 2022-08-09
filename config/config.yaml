@@ -1,0 +1,2 @@
+Host: ":30001"
+Database: "root:@tcp(127.0.0.1:3306)/smartdb?charset=utf8mb4&parseTime=True&loc=Local"
